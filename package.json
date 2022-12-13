@@ -1,0 +1,23 @@
+{
+  "name": "aaa-test-practice",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "string_length.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admirerbrown/AAA-test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/admirerbrown/AAA-test-practice/issues"
+  },
+  "homepage": "https://github.com/admirerbrown/AAA-test-practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
